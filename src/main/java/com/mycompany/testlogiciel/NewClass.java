@@ -12,5 +12,6 @@ package com.mycompany.testlogiciel;
 public class NewClass {
     
     String temps; 
-    String heure; 
+    String heure;
+    String coucou;
 }

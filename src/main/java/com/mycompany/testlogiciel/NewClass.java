@@ -13,4 +13,5 @@ public class NewClass {
     
     String temps; 
     String heure; 
+    String seconde; 
 }
